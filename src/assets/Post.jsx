@@ -6,12 +6,12 @@ const Post = () => {
   return (
     <div className="post">
       <div className="top">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCJpmc7wNF8Ti2Tuh_hcIRZUGOc23KBTx2A&s" alt="" />
+        <img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/3/37/Avatar_Ben_Bigger.png" alt="" />
         <p className="userName">wheatScrub11</p>
         <div className="postDate">12-23-12</div>
       </div>
       <div className="mid">
-        <div className="postTitle">Lorem ipsum, dolor sit amet consectetur adipisicing elit. In, eaque obcaecati? Facere iste sequi eum necessitatibus maxime s illum.</div>
+        <div className="postTitle">Ejemplo de titulo Ejemplo de titulo Ejemplo de titulo Ejemplo de titulo</div>
         <p className="main-text">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam
           dolorum quas quaerat nobis eveniet aut, maiores itaque hic odio animi,
